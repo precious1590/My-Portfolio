@@ -1,8 +1,8 @@
 
 export default function Footer() {
   return (
-    <footer className="bg-pink-900 text-white py-10 px-2 font-poppins">
-      <div className="max-w-xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-6 sm:gap-0 text-center sm:text-left">
+    <footer className="bg-pink-900 text-white py-10 px-4 font-poppins">
+      <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-0 text-center sm:text-left">
         
       
         <div>
