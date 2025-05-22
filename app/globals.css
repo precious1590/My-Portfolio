@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+@theme inline {
+  --font-poppins: poppins, sans-serif;
+  --color-tweeter-blue: "pink"
+}
+.bg-tweeter-blue{
+  background-color: var(--color-tweeter-pink);
+}
+.text-tweeter-blue{
+  color: var(--color-tweeter-pink)
+}
+.font-poppins{
+  font-family: var(--font-mono);
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
