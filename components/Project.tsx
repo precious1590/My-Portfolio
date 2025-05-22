@@ -9,7 +9,7 @@ export default function Project() {
       <div className="bg-gradient-to-r from-pink-100 to-pink-200 text-black w-full font-poppins py-10 rounded-lg">
         <h1 className="flex justify-center items-center text-4xl font-bold mb-4">My Project</h1>
         <p className="text-center font-bold mb-8 px-4 sm:px-20">
-          Here are some of the cool things I've worked on
+          Here are some of the cool things I&apos;ve worked on
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-2 sm:px-6">
